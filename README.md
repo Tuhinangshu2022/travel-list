@@ -1,2 +1,13 @@
 # travel-list
-This is a Tiny Project made on React.  This Project is made for people who are going to travel, and have lot of things to pack in the bag..!
+This is a Tiny Project made on React, Dedicated to people who travel and pack their bags at last minute😊
+- Author: Tuhinangshu Choudhury
+
+## Setup : 
+- Create React App
+- Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
+
+## How to start the App?
+- Open the File in VSCode > Open the Terminal > Provide Command `npm i` (For installing Dependency) > Then `npm start` (for starting the React App)
+
+
+
